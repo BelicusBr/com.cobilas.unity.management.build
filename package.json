@@ -1,0 +1,19 @@
+{
+  "name": "com.cobilas.unity.management.build",
+  "version": "1.0.0",
+  "displayName": "Cobilas Management Build",
+  "description": "Pacote de utilitarios eventos da unity3d",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "type": "library",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@BelicusBr"
+  },
+  "repository": {
+    "url" : "https://github.com/BelicusBr/com.cobilas.unity.management.build.git",
+    "type" : "git"
+  },
+  "relatedPackages": {
+    "com.cobilas.unity.management.build": "1.0.0"
+  }
+}
