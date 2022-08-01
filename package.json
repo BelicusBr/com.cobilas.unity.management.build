@@ -1,6 +1,6 @@
 {
   "name": "com.cobilas.unity.management.build",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "displayName": "Cobilas Management Build",
   "description": "Pacote de utilitarios eventos da unity3d",
   "licensesUrl": "https://github.com/BelicusBr/com.cobilas.unity.management.build/blob/main/LICENSE.md",
@@ -19,6 +19,6 @@
   },
   
   "relatedPackages": {
-    "com.cobilas.unity.management.build": "1.0.4"
+    "com.cobilas.unity.management.build": "1.0.5"
   }
 }
