@@ -1,4 +1,4 @@
-# DEPRECATED
+# :no_entry: DEPRECATED
 ## com.cobilas.unity.management.build
 Pacote de utilitarios eventos da unity3d<br/>
 O repositório com.cobilas.unity.management.build foi juntado com o repositório com.cobilas.unity.management.runtime<br/>
